@@ -1,0 +1,1 @@
+execute @a[rm=1] ~ ~ ~ setblock ~ ~ ~ fire

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Useful functions : One for night vision without particles, one to kill every Mobs except players and tamed animals (with a name) and so on.",
+        "name": "Useful Functions Add-On - 1.0",
+        "uuid": "30716486-5309-48c6-a50e-51e3249adc5c",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 14, 0]
+    },
+    "modules": [
+        {
+            "description": "Useful Functions Add-On - 1.0",
+            "type": "data",
+            "uuid": "d7f34f60-862b-49b9-b18c-a66a6172af8c",
+            "version": [1, 0, 0]
+        }
+    ]
+}

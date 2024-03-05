@@ -1,0 +1,1 @@
+kill @e[type=!player, type=!villager, name=""]

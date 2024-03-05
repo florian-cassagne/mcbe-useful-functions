@@ -1,0 +1,1 @@
+execute @a[rm=1] ~ ~ ~ effect @s levitation 3 255 true
